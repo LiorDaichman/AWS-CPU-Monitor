@@ -23,4 +23,5 @@ This project aims to extract performance information for an AWS instance and dis
 
 3. **run python app.py** in the terminal 
 
-https://s4.ezgif.com/tmp/ezgif-4-73deaf0db2.gif
+
+![](https://github.com/LiorDaichman/AWS-CPU-Monitor/https://s4.ezgif.com/tmp/ezgif-4-73deaf0db2.gif)
