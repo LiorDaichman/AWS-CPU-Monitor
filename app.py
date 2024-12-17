@@ -86,9 +86,7 @@ def update_graph(n_clicks, time_period, period, ip_address):
         times, values = get_cpu_usage(instance_id, start_time, end_time, int(period))
         figure = {
             'data': [{'x': times, 'y': values, 'type': 'line', 'name': 'CPU Usage'}],
-            'layout': {'title': f'AWS EC2 Instance CPU Usage (IP: {ip_address})',
-                       'xaxis': {'title': 'Time'},
-                       'yaxis': {'title': 'CPU Utilization (%)'}}
+            'layout': {'xaxis': {'title': 'Time'},'yaxis': {'title': 'CPU Utilization (%)'}}                                              
         }
         return figure
     return {'data': [], 'layout': {}}
