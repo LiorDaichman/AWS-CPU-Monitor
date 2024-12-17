@@ -10,7 +10,6 @@ This project aims to extract performance information for an AWS instance and dis
 
 ## Prerequisites
 - Python 3.x installed on your local machine.
-- Necessary Python libraries installed.
 
 ## Setup
 
