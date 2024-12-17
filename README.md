@@ -22,3 +22,5 @@ This project aims to extract performance information for an AWS instance and dis
    pip install -r requirements.txt
 
 3. **run python app.py** in the terminal 
+
+https://s4.ezgif.com/tmp/ezgif-4-73deaf0db2.gif
