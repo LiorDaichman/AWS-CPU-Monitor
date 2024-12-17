@@ -1,0 +1,4 @@
+Flask
+dash
+boto3
+python-dotenv
