@@ -18,7 +18,7 @@ This project aims to extract performance information for an AWS instance and dis
    git clone https://github.com/yourusername/aws-instance-cpu-usage-tracker.git
    cd aws-instance-cpu-usage-tracker
 
-   2. **Install the required libraries:**
-    pip install -r requirements.txt
+2. **Install the required libraries:**
+   pip install -r requirements.txt
 
-   3. **run python app.py**
+3. **run python app.py**
