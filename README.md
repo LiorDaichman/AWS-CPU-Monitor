@@ -24,3 +24,9 @@ This project aims to extract performance information for an AWS instance and dis
 
 ![ezgif-4-73deaf0db2](https://github.com/user-attachments/assets/87407de9-b619-47c9-8642-4fce8e638440)
 
+## 📝 License
+This project is licensed under the **MIT License**.
+
+## 📩 Contact
+For any questions or suggestions, reach out via **liordaichman@gmail.com** or open an issue on GitHub.
+
