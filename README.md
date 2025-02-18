@@ -1,17 +1,17 @@
 # AWS Instance CPU Usage Tracker
 
-## Overview
+## 📌 Overview
 This project aims to extract performance information for an AWS instance and display the CPU usage over time. The goal is to monitor the instance's CPU performance and visualize it in a chart.
 
-## Inputs
+## 💻 Inputs
 1. The ip address of the instance
 2. The time period to display the chart for
 3. The interval between samples
 
-## Prerequisites
+## 📦 Prerequisites
 - Python 3.x installed on your local machine.
 
-## Setup
+## 🛠️ Setup
 
 1. **Clone the repository:**
    git clone https://github.com/LiorDaichman/AWS-CPU-Monitor.git
